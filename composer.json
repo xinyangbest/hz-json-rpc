@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HzJsonRPC": "./src/"
+            "HzJsonRpc": "./src/"
         }
     },
     "require-dev": {
