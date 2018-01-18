@@ -1,5 +1,5 @@
 {
-    "name": "hz-json-rpc",
+    "name": "/hz/json-rpc",
     "type": "library",
     "keywords": [
         "json-rpc",
