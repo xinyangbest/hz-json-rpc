@@ -1,13 +1,10 @@
 # hz-json-rpc
  hz-Json-rpc PHP client/server doc
-## Install
-You can install via composer
+## Installation
 
-Autoload must specify `app` and `test`.
+You can install the package via composer:
+
+```bash
+composer require haozu/json-rpc:dev-master
 ```
-{
-  "require": {
-    "haozu/json-rpc":"*"
-  }
-}
-```
+
